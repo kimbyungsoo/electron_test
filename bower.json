@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "description": "test",
+  "main": "index.js",
+  "authors": [
+    "KimByungSoo"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "electron"
+  ],
+  "homepage": "https://github.com/kimbyungsoo/electron_test",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-mobile-bower": "^1.4.5"
+  }
+}

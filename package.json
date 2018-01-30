@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimbyungsoo/electron_test.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "KimByungSoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimbyungsoo/electron_test/issues"
+  },
+  "homepage": "https://github.com/kimbyungsoo/electron_test#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
